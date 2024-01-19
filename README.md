@@ -1,1 +1,1 @@
-# GuessTheNumberPY
+# GuessTheNumberPY basically has you guessing a number and thats it. here is a screenshot from the minigame: ![screenue](https://github.com/JukzaDX/GuessTheNumberPY/assets/157161475/60a439ee-7b06-4d64-8766-88938176b451)
